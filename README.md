@@ -22,19 +22,3 @@ XXX.cloud.okteto.net/v2link/index.html
 
 
 
-## Heroku部署问题
-
-如果遇到：
-
-> We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.
-
-请Fork一下仓库，然后在自己的仓库下点击。
-
-
-
-## 自定义静态HTML页面
-仓库地址
-```
-https://github.com/happyevero/Html
-```
-
